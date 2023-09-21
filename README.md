@@ -1,4 +1,4 @@
-### Hi there, I make stuff. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Waving Hand">
+### Hi there, I make stuff. <img src="https://github.com/ichenglin/ichenglin/assets/41904540/588b7ba9-05e0-4177-8130-232c1b132cf5" width="28px" alt="Waving Hand">
 
 ---
 

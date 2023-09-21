@@ -1,4 +1,4 @@
-### Hi there, I make stuff. <img src="https://github.com/ichenglin/ichenglin/assets/41904540/588b7ba9-05e0-4177-8130-232c1b132cf5" width="28px" alt="Waving Hand">
+<h3><a href="https://github.com/ichenglin?tab=repositories">Hi there, I make stuff. <img src="https://github.com/ichenglin/ichenglin/assets/41904540/588b7ba9-05e0-4177-8130-232c1b132cf5" width="28px" alt="Waving Hand"></a></h3>
 
 ---
 

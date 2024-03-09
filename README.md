@@ -15,7 +15,7 @@ As always, I am pleased to help anyone whenever I have the time.
 
 <br>
 
-<a href="https://ichenglin.net" target="_blank"><img src="https://img.shields.io/badge/Website-ichenglin.net-red?style=appveyor&logo=tailwindcss" alt="Website"></a>
-<a href="https://github.com/ichenglin" target="_blank"><img src="https://img.shields.io/badge/Github-ichenglin-yellow?style=appveyor&logo=github" alt="Github"></a>
-<a href="https://www.npmjs.com/~ichenglin" target="_blank"><img src="https://img.shields.io/badge/NPM-ichenglin-brightgreen?style=appveyor&logo=npm" alt="NPM"></a>
-<a href="https://www.linkedin.com/in/ichenglin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ichenglin-blue?style=appveyor&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://ichenglin.net"                 target="_blank"><img src="https://img.shields.io/badge/Website-ichenglin.net-red?style=appveyor&logo=icloud&logoColor=whitesmoke"      alt="Website" ></a>
+<a href="https://github.com/ichenglin"          target="_blank"><img src="https://img.shields.io/badge/Github-ichenglin-yellow?style=appveyor&logo=github&logoColor=whitesmoke"        alt="Github"  ></a>
+<a href="https://www.youtube.com/@ichenglin"    target="_blank"><img src="https://img.shields.io/badge/Youtube-ichenglin-brightgreen?style=appveyor&logo=youtube&logoColor=whitesmoke" alt="NPM"     ></a>
+<a href="https://www.linkedin.com/in/ichenglin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ichenglin-blue?style=appveyor&logo=linkedin&logoColor=whitesmoke"      alt="LinkedIn"></a>

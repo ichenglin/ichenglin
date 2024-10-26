@@ -1,8 +1,11 @@
-<h3><a href="https://ichenglin.net">Hi there, I make stuff.</a> <img src="https://raw.githubusercontent.com/ichenglin/ichenglin/main/assets/waving_hand.gif" width="28px" alt="Waving Hand"></h3>
+<h3>
+    <a href="https://ichenglin.net">Hi there! I make stuff.</a>
+    <a href="https://ichenglin.net"><img src="https://raw.githubusercontent.com/ichenglin/ichenglin/main/assets/waving_hand.gif" width="28px" alt="Waving Hand"></a>
+</h3>
 
 ---
 
-<a href="https://runtimecloud.com/" target="_blank">
+<a href="https://ichenglin.net" target="_blank">
     <img align="right" width="248px" height="200px" src="https://raw.githubusercontent.com/ichenglin/ichenglin/main/assets/frustrated_programmer.gif" alt="Frustrated Programmer">
 </a>
 
@@ -17,5 +20,5 @@ As always, I am pleased to help anyone whenever I have the time.
 
 <a href="https://ichenglin.net"                 target="_blank"><img src="https://img.shields.io/badge/Website-ichenglin.net-red?style=appveyor&logo=icloud&logoColor=whitesmoke"      alt="Website" ></a>
 <a href="https://github.com/ichenglin"          target="_blank"><img src="https://img.shields.io/badge/Github-ichenglin-yellow?style=appveyor&logo=github&logoColor=whitesmoke"        alt="Github"  ></a>
-<a href="https://www.youtube.com/@ichenglin"    target="_blank"><img src="https://img.shields.io/badge/Youtube-ichenglin-brightgreen?style=appveyor&logo=youtube&logoColor=whitesmoke" alt="NPM"     ></a>
+<a href="https://www.youtube.com/@ichenglin"    target="_blank"><img src="https://img.shields.io/badge/YouTube-ichenglin-brightgreen?style=appveyor&logo=youtube&logoColor=whitesmoke" alt="YouTube" ></a>
 <a href="https://www.linkedin.com/in/ichenglin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ichenglin-blue?style=appveyor&logo=linkedin&logoColor=whitesmoke"      alt="LinkedIn"></a>

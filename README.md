@@ -9,7 +9,9 @@
 ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝     ╚══════╝╚═╝╚═╝  ╚═══╝
 ```
 
-<img align="right" width="248px" height="200px" src="https://raw.githubusercontent.com/ichenglin/ichenglin/main/assets/frustrated_programmer.gif" alt="Frustrated Programmer">
+<div>
+    <img align="right" width="248px" height="200px" src="https://raw.githubusercontent.com/ichenglin/ichenglin/main/assets/frustrated_programmer.gif" alt="Frustrated Programmer">
+</div>
 
 I'm a Computer Science and Engineering student passionate in operating systems and computer architecture. I enjoy experimenting with new technologies, collaborating on projects, and occasionally tinkering with electronics. I also have experience in [game development and robotics](https://www.youtube.com/@ichenglin).
 
